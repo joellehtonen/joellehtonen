@@ -10,6 +10,20 @@
 
 <img src="https://github.com/joellehtonen/joellehtonen/blob/main/giphy.gif" alt="Joel approving nod">
 
+## 🛠️ Languages and Tools
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cplusplus" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,docker,react,bootstrap,nginx,mariadb,wordpress,nodemon,postman" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,github,bash,linux,nano" />
+  <br>
+  <img src="https://skillicons.dev/icons?i= photoshop,premierepro,slack,unity" />
+</p>
+
+<hr>
+
 
 ## ⚡️ Stats
 <a href="https://github.com/joellehtonen/github-readme-stats">
