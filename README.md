@@ -12,7 +12,7 @@
 
 
 ## ⚡️ Stats
-[![Joel Lehtonen GitHub stats](https://github-readme-stats.vercel.app/api?username=joellehtonen&show_icons=true](https://github.com/joellehtonen/github-readme-stats)
+[![Joel Lehtonen GitHub stats](https://github-readme-stats.vercel.app/api?username=joellehtonen&show_icons=true)](https://github.com/joellehtonen/github-readme-stats)
 
 <!--
 <div align=center>
