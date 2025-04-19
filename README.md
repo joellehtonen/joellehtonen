@@ -5,4 +5,6 @@
   <img src="https://profile-counter.glitch.me/joellehtonen/count.svg" alt="Visitor Count" />
 </div>
 
+<div align="center">
 <img src="https://github.com/joellehtonen/joellehtonen/blob/main/giphy.gif" alt="Joel approving nod">
+</div>
