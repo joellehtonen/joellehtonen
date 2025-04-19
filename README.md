@@ -10,7 +10,7 @@
 
 <img src="https://github.com/joellehtonen/joellehtonen/blob/main/giphy.gif" alt="Joel approving nod">
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 <p align="left">          
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,docker,vscode,github,bash,linux,react,bootstrap,nginx,mysql,wordpress,postman,ps,pr,unity&perline=11" />
 </p>
