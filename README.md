@@ -14,6 +14,9 @@
 ## ⚡️ Stats
 [![Joel Lehtonen GitHub stats](https://github-readme-stats.vercel.app/api?username=joellehtonen&show_icons=true)](https://github.com/joellehtonen/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joellehtonen&layout=compact)](https://github.com/joellehtonen/github-readme-stats)
+
+
 <!--
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=joellehtonen&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Joel Lehtonen GitHub Stats" />
