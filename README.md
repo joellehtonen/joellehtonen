@@ -10,6 +10,7 @@
 
 <img src="https://github.com/joellehtonen/joellehtonen/blob/main/giphy.gif" alt="Joel approving nod">
 
+<!--
 ## 🛠️ Languages and Tools
 <br>
 <p align="left">
@@ -21,6 +22,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i= photoshop,premierepro,slack,unity" />
 </p>
+-->
 
 <hr>
 
