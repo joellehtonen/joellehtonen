@@ -1,14 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Joel 👋
 
-<!--
-<div align="center"> 
-  <p>numberOfVisitorsSince18-04-2025</p>
-  <img src="https://profile-counter.glitch.me/joellehtonen/count.svg" alt="Visitor Count" />
-</div>
--->
+<img src="https://github.com/joellehtonen/joellehtonen/blob/main/giphy.gif" alt="Joel from the Last of Us giving an approving nod">
 
-
-<img src="https://github.com/joellehtonen/joellehtonen/blob/main/giphy.gif" alt="Joel approving nod">
+- I worked 7+ years as an editor and colorist, before shifting my career towards coding and IT.
+- Now finishing my studies in Hive Helsinki. 
+- I'm particularly interested in game development, front-end, and other stuff where I can put my visual and storytelling skills to use. But generally interested in pretty much everything. 
+- Hoping one day to finish a game of my own, or several, and for it to make me ridiculously rich. 
 
 ## 🛠️ Languages & Tools
 <p align="left">          
