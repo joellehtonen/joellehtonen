@@ -12,7 +12,7 @@
 
 ## 🛠️ Languages and Tools
 <br>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,cplusplus" />
   <br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,docker,react,bootstrap,nginx,mariadb,wordpress,nodemon,postman" />
